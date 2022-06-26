@@ -1,0 +1,259 @@
+#wrapper{
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    position:absolute;
+}
+.texto-2{
+    margin-top: 15;
+    height:669px;
+    width:300px;
+    bottom: 0;
+    right: 0;
+    background-color: #ffffff;
+    border : 1px solid #038ffa;
+    position: absolute;
+}
+.retangulo{
+    width:300px;
+    height:100px;
+    position: relative;
+    background-color: #a057dc;
+}    
+.cinza{
+    width: 100vw;
+    height: 15vh;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background-color: #4f4c4c;
+}
+
+.parte{
+    width: 15vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    position:absolute;
+    background-color: #a057dc;
+}
+
+.parte-1{
+    width: 15vw;
+    height: 80vh;
+    left: 0;
+    top: 15vh;
+    position: absolute;
+    background-color: #a057dc;
+}
+.parte-2{
+    width: 15vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    position:absolute;
+    background-color: #59da8a;
+}
+.parte-2-1{
+    width: 15vw;
+    height: 80vh;
+    left: 0;
+    top: 15vh;
+    position: absolute;
+    background-color: #59da8a;
+}
+.parte-3{
+    width: 15vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    position:absolute;
+    background-color: #2ab2c2;
+}
+.parte-3-1{
+    width: 15vw;
+    height: 80vh;
+    left: 0;
+    top: 15vh;
+    position: absolute;
+    background-color: #2ab2c2;
+}
+.parte-4{
+    width: 15vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    position:absolute;
+    background-color: #d8d607;
+}
+.parte-4-1{
+    width: 15vw;
+    height: 80vh;
+    left: 0;
+    top: 15vh;
+    position: absolute;
+    background-color: #d8d607;
+}
+.parte-5{
+    width: 15vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    position:absolute;
+    background-color: #db5659;
+}
+.parte-5-1{
+    width: 15vw;
+    height: 80vh;
+    left: 0;
+    top: 15vh;
+    position: absolute;
+    background-color: #db5659;
+}
+.parte-6{
+    width: 15vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    position:absolute;
+    background-color: #5772dd;
+}
+.parte-6-1{
+    width: 15vw;
+    height: 80vh;
+    left: 0;
+    top: 15vh;
+    position: absolute;
+    background-color: #5772dd;
+}
+.parte-7{
+    width: 15vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    position:absolute;
+    background-color: #dc51ce ;
+}
+.parte-7-1{
+    width: 15vw;
+    height: 80vh;
+    left: 0;
+    top: 15vh;
+    position: absolute;
+    background-color: #dc51ce ;
+}
+.parte-8{
+    width: 15vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    position:absolute;
+    background-color: #db7802 ;
+}
+.parte-8-1{
+    width: 15vw;
+    height: 80vh;
+    left: 0;
+    top: 15vh;
+    position: absolute;
+    background-color: #db7802 ;
+}
+.preto-1{
+    width: 85vw;
+    height: 85vh;
+    right: 0;
+    top: 10vh;
+    position:absolute;
+    background-color: #0f120f;
+}
+
+.cinza-2{
+    width: 100vw;
+    height: 5vh;
+    right: 0;
+    bottom: 0;
+    position:absolute;
+    background-color: #656162;
+}
+.texto{
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 400px;
+    margin-left: 50px;
+    color:#ffffff;
+    size: 30; 
+    justify-items: center;
+    margin-left: 100px;
+    margin-right:500px ;
+}
+.menu{
+    margin-top: 0vh;
+    margin-left: 0vw;
+    position: absolute;
+}
+.coloracao-1{
+    color:#a057dc
+}
+.coloracao{
+color:#000000 ;
+
+}
+
+.coloracao-2{
+color:#59da8a;
+}
+
+.coloracao-3{
+color:#2ab2c2 ;
+}
+
+.coloracao-4{
+color:#d8d607 ;
+}
+
+.coloracao-5{
+color:#db5659 ; }
+
+.coloracao-6{
+color:#5772dd ; }
+
+.coloracao-7{
+color:#dc51ce ;
+}
+.coloracao-8{
+    color: #db7802;
+}
+
+.titulo{
+    background-color: #4f4c4c;
+    position: absolute;
+    justify-items: center;
+    top:0;
+    margin-left: 300px;
+    height: 20vh;
+    width: 20vw;
+    left: 30vw;
+}
+
+.t2{
+   font-size: 1.6vw;
+}
+.texto-3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#000000;
+    size: 15; 
+    justify-items: center;
+    margin-left: 100px;
+    margin-right:200px ;
+}
+
+.rt8{
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right:400px ;
+    width:300px;
+    height:300px;
+    position: absolute;
+    background-color: #a057dc;
+}
